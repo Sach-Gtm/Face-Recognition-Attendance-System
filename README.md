@@ -1,4 +1,5 @@
 # Face Recognition Attandance System
+//Minor documentation changes
 
 ### Recognize The faces And Take Automatic Attandance. :sparkles:
 
