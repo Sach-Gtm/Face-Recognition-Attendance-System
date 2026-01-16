@@ -171,4 +171,4 @@ Thanks to [Farhat Tasnim](https://github.com/farhattasnim) work with me.
 
 ## Licence :scroll:
 ---------------------------------
-MIT © [K.M.H. Mubin](https://github.com/kmhmubin)
+Sachin Gautam
